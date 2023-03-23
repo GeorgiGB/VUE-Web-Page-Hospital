@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Para complementar toda la aplicacion se debe de enlazar con otro proyecto
+https://github.com/GeorgiGB/base-datos-symfony-hospital
